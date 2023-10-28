@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Monika</h1>
 <h3 align="center">I've always wanted a job that would allow me to constantly develop myself and make use of my ability to finding errors 👀, so... I made decision to become a software tester😎</h3>
+<img align="right" img src="https://i.pinimg.com/originals/08/fb/61/08fb615b1a389de5bc0410136d75f50d.gif" width="350" height="350">
 
 
 - 🌱 I’m currently learning **SQL and JavaScript**
