@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ksiazkiewiczmonika@gmail.com**
 
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1zs9wSNntDObRdFCGvWXJUp_oiSOW3Czn/view)
+- 📄 [Know about my experiences](https://drive.google.com/file/d/1gcc7iRZlXGHndQWKVoGMQipO0tBW43Pg/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
