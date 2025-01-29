@@ -35,3 +35,5 @@
 - **Connect with me:**
       <p align="left">
       <a href="https://linkedin.com/in/monika-książkiewicz-96ba47226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monika-książkiewicz-96ba47226" height="30" width="30" /></a>
+
+## ⚠️ Check pinned repositories below to learn more ⚠️
