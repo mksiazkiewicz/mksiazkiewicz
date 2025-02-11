@@ -26,6 +26,10 @@
   
     🔹[SQL Server - Modyfikacja danych, transakcje i błędy](https://www.udemy.com/course/sql-server-modyfikacja-danych-transakcje-oblsuga-bledow/)
 
+    🔹[Wprowadzenie do testowania oprogramowania](https://navoica.pl/courses/course-v1:ZPSB+WTO1+2022_WTO1/about)
+
+    🔹[Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
+
     🔹[Power BI od podstaw - Wizualizacja i analiza danych](https://www.udemy.com/course/power-bi-od-podstaw/?couponCode=ACCAGE0923)
 
     🔹[The Complete PL/SQL Bootcamp : "Beginner to Advanced PL/SQL"](https://www.udemy.com/course/plsql-beginner-to-advanced-become-a-perfect-plsql-developer/?couponCode=ACCAGE0923) - in progress 
