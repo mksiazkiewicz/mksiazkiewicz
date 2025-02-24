@@ -2,7 +2,7 @@
 
 <img align="right" img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVrN3Nlem12bHJpbXd2MHBhNWxxYmZydDkxODVucDdkdG9jNGZuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="350" height="350">
 
-- 🌱 I’m currently learning **SQL, PL/SQL, T-SQL**, Data Analyse and Visualization
+- 🌱 I’m currently learning **SQL, PL/SQL, T-SQL**, Oracle APEX and Data Analyse
 
 - **💻 Tools:**
 
